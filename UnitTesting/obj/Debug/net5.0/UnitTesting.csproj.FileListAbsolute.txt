@@ -1,0 +1,5 @@
+D:\programming\HMS\UnitTesting\obj\Debug\net5.0\UnitTesting.csproj.AssemblyReference.cache
+D:\programming\HMS\UnitTesting\obj\Debug\net5.0\UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\HMS\UnitTesting\obj\Debug\net5.0\UnitTesting.AssemblyInfoInputs.cache
+D:\programming\HMS\UnitTesting\obj\Debug\net5.0\UnitTesting.AssemblyInfo.cs
+D:\programming\HMS\UnitTesting\obj\Debug\net5.0\UnitTesting.csproj.CoreCompileInputs.cache
