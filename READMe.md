@@ -1,12 +1,19 @@
 ﻿# Simple-Hospital-Management-System-Dekstop-Application
 
 ![interfacelogin2](https://github.com/DushanMalingaKarunapala/Simple-Hospital-Management-System-Dekstop-Application/assets/115198113/e596cfa6-f57c-4bc3-bddf-d20d87a34ac0)
+
 # Use Case Diagram
 ![Captureuse](https://github.com/DushanMalingaKarunapala/Simple-Hospital-Management-System-Dekstop-Application/assets/115198113/f09b93d8-db6d-4914-b0d2-d955312847b2)
+
+
 # Class Diagram
+![class](https://github.com/DushanMalingaKarunapala/Simple-Hospital-Management-System-Dekstop-Application/assets/115198113/d3a950ec-909e-4f7c-b227-e0bc5804f6d2)
+
+
+
 
 # Some of the interfaces in the system
-![class](https://github.com/DushanMalingaKarunapala/Simple-Hospital-Management-System-Dekstop-Application/assets/115198113/d3a950ec-909e-4f7c-b227-e0bc5804f6d2)
+
 ![doc1](https://github.com/DushanMalingaKarunapala/Simple-Hospital-Management-System-Dekstop-Application/assets/115198113/252d5e73-68b1-4f28-b3bc-48b926fd04de)
 ![doc2](https://github.com/DushanMalingaKarunapala/Simple-Hospital-Management-System-Dekstop-Application/assets/115198113/fa58cdde-d411-48e8-a09d-44b712c8e831)
 ![doc3](https://github.com/DushanMalingaKarunapala/Simple-Hospital-Management-System-Dekstop-Application/assets/115198113/ad6ea2ad-d919-4007-8301-fdb3bf1c3e7c)
